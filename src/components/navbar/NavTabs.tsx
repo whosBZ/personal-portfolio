@@ -3,7 +3,7 @@ import './NavTabs.css'
 const NavTabs = () => {
 
     return(
-        <div className="nav-tabs">
+        <div id="nav-tabs" className='navbar-item'>
             <a>Home</a>
             <a>Projects</a>
         </div>

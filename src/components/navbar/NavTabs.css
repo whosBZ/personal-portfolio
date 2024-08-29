@@ -1,3 +1,9 @@
-.nav-tabs a{
-    padding-left: 10px;
+#nav-tabs a{
+    margin-left: 30px;
+}
+
+@media screen and (max-width: 600px) {
+    #nav-tabs a{
+        margin: 10px;
+    }
 }

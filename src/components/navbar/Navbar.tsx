@@ -7,7 +7,7 @@ const NavBar = () => {
 
     return (
         <nav id='navbar-wrapper'>
-        <Logo/>
+        <Logo />
         <NavTabs/>
         </nav>
     )
