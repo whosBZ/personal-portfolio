@@ -1,4 +1,11 @@
+@font-face {
+  font-family: 'Exo2';
+  src: url(./assets/fonts/Exo2-VariableFont_wght.ttf);
+  font-variation-settings: 'wght' 500;
+}
+
 body {
+  font-family: 'Exo2';
   padding: 0;
   margin: 0;
   background-color: black;
