@@ -1,5 +1,7 @@
+import './Logo.css'
+
 const Logo = () => {
+  return <>BZ</>;
+};
 
-
-    return 
-}
+export default Logo;

@@ -1,10 +1,15 @@
+import Logo from './Logo'
 import './Navbar.css'
+import NavTabs from './NavTabs'
 
 const NavBar = () => {
 
 
     return (
-        <>My NavBar</>
+        <nav id='navbar-wrapper'>
+        <Logo/>
+        <NavTabs/>
+        </nav>
     )
 }
 
